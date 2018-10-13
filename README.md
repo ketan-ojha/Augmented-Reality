@@ -1,2 +1,2 @@
 # Augmented-Reality
-A small AR app in which you control a robot
+An AR app in which you can control a robot
